@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Buah: Biji Banyak & Biji Sedikit",
+  "description": "Game edukasi interaktif anak TK belajar mengenal buah berbiji banyak dan sedikit/satu dengan visual besar, suara ceria, dan animasi seru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
